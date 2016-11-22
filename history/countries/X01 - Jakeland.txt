@@ -15,7 +15,7 @@ national_focus = MIL
 
 1439.1.1 = {
 	leader = {
-		name = "Hadim Sehabeddin"
+		name = "Jake Thorne"
 		type = general
 		rank = 0
 		fire = 3
@@ -29,7 +29,7 @@ national_focus = MIL
 	
 1444.1.1 = {
 	monarch = {
-		name = "Mehmet II Fatih"
+		name = "Jake Thorne"
 		dynasty = Osmanoglu
 		birth_date = 1432.3.30
 		adm = 5
@@ -43,7 +43,7 @@ national_focus = MIL
 
 1446.1.1 = {
 	monarch = {
-		name = "Murad II"
+		name = "Jake Thorne"
 		dynasty = Osmanoglu
 		birth_date = 1404.6.1
 		adm = 3
@@ -59,8 +59,8 @@ national_focus = MIL
 
 1446.1.1 = {
 	heir = {
-		name = "Mehmet"
-		monarch_name = "Mehmet II Fatih"
+		name = "Jake Thorne"
+		monarch_name = "Jake Thorne"
 		dynasty = "Osmanoglu"
 		birth_date = 1432.3.30
 		death_date = 1481.5.3
@@ -73,20 +73,20 @@ national_focus = MIL
 
 1451.2.3 = {
 	monarch = {
-		name = "Mehmet II Fatih"
+		name = "Jake Thorne"
 		dynasty = Osmanoglu
 		birth_date = 1432.3.30
 		adm = 5
 		dip = 5
 		mil = 6
-		leader = { name = "Mehmet II"            type = general	rank = 0	fire = 6	shock = 4	manuever = 5	siege = 2}
+		leader = { name = "Jake Thorne"            type = general	rank = 0	fire = 6	shock = 4	manuever = 5	siege = 2}
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = conqueror_personality
 	add_heir_personality = lawgiver_personality
 	heir = {
-		name = "Bayezid"
-		monarch_name = "Bayezid II"
+		name = "Jake Thorne"
+		monarch_name = "Jake Thorne"
 		dynasty = "Osmanoglu"
 		birth_date = 1448.12.3
 		death_date = 1512.5.26
@@ -103,17 +103,17 @@ national_focus = MIL
 		capital = 151
 } # Thrace
 
-1460.1.1 = { leader = {	name = "Gedik Ahmed"           	type = general	rank = 0	fire = 4	shock = 3	manuever = 3	siege = 1	death_date = 1482.1.1 } }
+1460.1.1 = { leader = {	name = "Jake Thorne"           	type = general	rank = 0	fire = 4	shock = 3	manuever = 3	siege = 1	death_date = 1482.1.1 } }
 
 1481.5.4 = {
 	monarch = {
-		name = "Bayezid II"
+		name = "Jake Thorne"
 		dynasty = Osmanoglu
 		birth_date = 1448.12.3
 		adm = 3
 		dip = 3
 		mil = 5
-		leader = { name = "Bayezid II"            type = general	rank = 0	fire = 3	shock = 2	manuever = 2	siege = 0}
+		leader = { name = "Jake Thorne"            type = general	rank = 0	fire = 3	shock = 2	manuever = 2	siege = 0}
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = zealot_personality
@@ -121,8 +121,8 @@ national_focus = MIL
 
 1481.5.4 = {
 	heir = {
-		name = "Selim Yavuz"
-		monarch_name = "Selim I Yavuz"
+		name = "Jake Thorne"
+		monarch_name = "Jake Thorne"
 		dynasty = "Osmanoglu"
 		birth_date = 1470.10.10
 		death_date = 1520.9.22
@@ -133,25 +133,25 @@ national_focus = MIL
 	}
 }
 
-1487.1.1 = { leader = {	name = "Kemal Reis"            	type = admiral	rank = 5	fire = 4	shock = 4	manuever = 4	siege = 0	death_date = 1511.1.1 } }
+1487.1.1 = { leader = {	name = "Jake Thorne"            	type = admiral	rank = 5	fire = 4	shock = 4	manuever = 4	siege = 0	death_date = 1511.1.1 } }
 
-1490.1.1 = { leader = {	name = "Hadim Sinan"           	type = general	rank = 1	fire = 2	shock = 3	manuever = 4	siege = 0	death_date = 1517.1.1 } }
+1490.1.1 = { leader = {	name = "Jake Thorne"           	type = general	rank = 1	fire = 2	shock = 3	manuever = 4	siege = 0	death_date = 1517.1.1 } }
 
 1492.1.1 = { add_accepted_culture = serbian }
 
-1492.1.1 = { leader = {	name = "Hadim Ali"             	type = general	rank = 3	fire = 2	shock = 3	manuever = 3	siege = 0	death_date = 1511.1.1 } }
+1492.1.1 = { leader = {	name = "Jake Thorne"             	type = general	rank = 3	fire = 2	shock = 3	manuever = 3	siege = 0	death_date = 1511.1.1 } }
 
-1493.1.1 = { leader = {	name = "Kucuk Daoud"           	type = admiral	rank = 0	fire = 2	shock = 2	manuever = 4	siege = 0	death_date = 1506.1.1 } }
+1493.1.1 = { leader = {	name = "Jake Thorne"           	type = admiral	rank = 0	fire = 2	shock = 2	manuever = 4	siege = 0	death_date = 1506.1.1 } }
 
 1512.5.2 = {
 	monarch = {
-		name = "Selim I Yavuz"
+		name = "Jake Thorne"
 		dynasty = Osmanoglu
 		birth_date = 1470.10.10
 		adm = 2
 		dip = 4
 		mil = 5
-		leader = { name = "Selîm I Yavuz"         type = general	rank = 0	fire = 5	shock = 4	manuever = 5	siege = 1}
+		leader = { name = "Jake Thorne"         type = general	rank = 0	fire = 5	shock = 4	manuever = 5	siege = 1}
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = strict_personality
@@ -159,8 +159,8 @@ national_focus = MIL
 
 1512.5.2 = {
 	heir = {
-		name = "Süleyman Kanuni"
-		monarch_name = "Süleyman I Kanuni"
+		name = "Jake Thorne"
+		monarch_name = "Jake Thorne"
 		dynasty = "Osmanoglu"
 		birth_date = 1494.11.6
 		death_date = 1566.9.8
@@ -171,23 +171,23 @@ national_focus = MIL
 	}
 }
 		
-1513.1.1 = { leader = {	name = "Piri Reis"             	type = admiral	rank = 4	fire = 2	shock = 2	manuever = 6	siege = 0	death_date = 1553.1.1 } }
+1513.1.1 = { leader = {	name = "Jake Thorne"             	type = admiral	rank = 4	fire = 2	shock = 2	manuever = 6	siege = 0	death_date = 1553.1.1 } }
 
 1514.1.1 = { decision = the_khalifah }
 
-1518.1.1 = { leader = {	name = "Bali"                  	type = general	rank = 2	fire = 1	shock = 4	manuever = 4	siege = 0	death_date = 1541.1.1 } }
+1518.1.1 = { leader = {	name = "Jake Thorne"                  	type = general	rank = 2	fire = 1	shock = 4	manuever = 4	siege = 0	death_date = 1541.1.1 } }
 
-1520.1.1 = { leader = {	name = "Gazi Husrev"           	type = general	rank = 3	fire = 3	shock = 4	manuever = 3	siege = 0	death_date = 1541.1.1 } }
+1520.1.1 = { leader = {	name = "Jake Thorne"           	type = general	rank = 3	fire = 3	shock = 4	manuever = 3	siege = 0	death_date = 1541.1.1 } }
 
 1520.9.23 = {
 	monarch = {
-		name = "Süleyman I Kanuni"
+		name = "Jake Thorne"
 		dynasty = Osmanoglu
 		birth_date = 1494.11.6
 		adm = 6
 		dip = 5
 		mil = 6
-		leader = { name = "Süleyman I Kanuni"     type = general	rank = 0	fire = 5	shock = 3	manuever = 4	siege = 2}
+		leader = { name = "Jake Thorne"     type = general	rank = 0	fire = 5	shock = 3	manuever = 4	siege = 2}
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = lawgiver_personality
@@ -196,12 +196,12 @@ national_focus = MIL
 
 
 
-1523.1.1 = { leader = {	name = "Ibrahim"               	type = general		rank = 0	fire = 4	shock = 3	manuever = 4	siege = 0	death_date = 1536.1.1 } }
+1523.1.1 = { leader = {	name = "Jake Thorne"               	type = general		rank = 0	fire = 4	shock = 3	manuever = 4	siege = 0	death_date = 1536.1.1 } }
 
 1524.5.28 = {
 	heir = {
-		name = "Selim"
-		monarch_name = "Selim II"
+		name = "Jake Thorne"
+		monarch_name = "Jake Thorne"
 		dynasty = "Osmanoglu"
 		birth_date = 1524.5.28
 		death_date = 1574.12.15
@@ -212,27 +212,27 @@ national_focus = MIL
 	}
 }
 
-1525.1.1 = { leader = {	name = "Barbaros"              	type = admiral		rank = 0	fire = 4	shock = 5	manuever = 5	siege = 0	death_date = 1546.1.1 } }
+1525.1.1 = { leader = {	name = "Jake Thorne"              	type = admiral		rank = 0	fire = 4	shock = 5	manuever = 5	siege = 0	death_date = 1546.1.1 } }
 
-1538.1.1 = { leader = {	name = "Özdemir"               	type = conquistador	rank = 4	fire = 2	shock = 2	manuever = 3	siege = 0	death_date = 1561.1.1 } }
+1538.1.1 = { leader = {	name = "Jake Thorne"               	type = conquistador	rank = 4	fire = 2	shock = 2	manuever = 3	siege = 0	death_date = 1561.1.1 } }
 
-1543.1.1 = { leader = {	name = "Salih Reis"            	type = admiral		rank = 4	fire = 3	shock = 3	manuever = 3	siege = 0	death_date = 1566.1.1 } }
+1543.1.1 = { leader = {	name = "Jake Thorne"            	type = admiral		rank = 4	fire = 3	shock = 3	manuever = 3	siege = 0	death_date = 1566.1.1 } }
 
-1551.1.1 = { leader = {	name = "Uluç Ali"           	type = admiral		rank = 4	fire = 3	shock = 4	manuever = 5	siege = 0	death_date = 1587.1.1 } }
+1551.1.1 = { leader = {	name = "Jake Thorne"           	type = admiral		rank = 4	fire = 3	shock = 4	manuever = 5	siege = 0	death_date = 1587.1.1 } }
 
-1551.1.1 = { leader = {	name = "Turgut Reis"		type = admiral		rank = 3	fire = 2	shock = 4	manuever = 5	siege = 0	death_date = 1565.6.23 } }
+1551.1.1 = { leader = {	name = "Jake Thorne"		type = admiral		rank = 3	fire = 2	shock = 4	manuever = 5	siege = 0	death_date = 1565.6.23 } }
 
-1554.1.1 = { leader = {	name = "Piyale"                 type = admiral		rank = 1	fire = 1	shock = 1	manuever = 4	siege = 0	death_date = 1590.1.1 } }
+1554.1.1 = { leader = {	name = "Jake Thorne"                 type = admiral		rank = 1	fire = 1	shock = 1	manuever = 4	siege = 0	death_date = 1590.1.1 } }
 
-1560.1.1 = { leader = {	name = "Lala Mustapha"         	type = general		rank = 2	fire = 2	shock = 4	manuever = 2	siege = 0	death_date = 1580.1.1 } }
+1560.1.1 = { leader = {	name = "Jake Thorne"         	type = general		rank = 2	fire = 2	shock = 4	manuever = 2	siege = 0	death_date = 1580.1.1 } }
 
-1560.1.1 = { leader = {	name = "Özdemiroglu Osman"     	type = general		rank = 3	fire = 4	shock = 3	manuever = 2	siege = 0	death_date = 1585.1.1 } }
+1560.1.1 = { leader = {	name = "Jake Thorne"     	type = general		rank = 3	fire = 4	shock = 3	manuever = 2	siege = 0	death_date = 1585.1.1 } }
 
-1561.1.1 = { leader = {	name = "Sokullu Mehmed"        	type = general		rank = 0	fire = 2	shock = 1	manuever = 3	siege = 0	death_date = 1579.1.1 } }
+1561.1.1 = { leader = {	name = "Jake Thorne"        	type = general		rank = 0	fire = 2	shock = 1	manuever = 3	siege = 0	death_date = 1579.1.1 } }
 
 1566.9.8 = {
 	monarch = {
-		name = "Selim II"
+		name = "Jake Thorne"
 		dynasty = Osmanoglu
 		birth_date = 1524.5.28
 		adm = 4
@@ -246,8 +246,8 @@ national_focus = MIL
 
 1566.9.8 = {
 	heir = {
-		name = "Murad"
-		monarch_name = "Murad III"
+		name = "Jake Thorne"
+		monarch_name = "Jake Thorne"
 		dynasty = "Osmanoglu"
 		birth_date = 1546.7.6
 		death_date = 1595.1.15
@@ -260,7 +260,7 @@ national_focus = MIL
 
 1574.12.16 = {
 	monarch = {
-		name = "Murad III"
+		name = "Jake Thorne"
 		dynasty = Osmanoglu
 		birth_date = 1546.7.6
 		adm = 3
@@ -273,8 +273,8 @@ national_focus = MIL
 
 1574.12.16 = {
 	heir = {
-		name = "Mehmet"
-		monarch_name = "Mehmet III"
+		name = "Jake Thorne"
+		monarch_name = "Jake Thorne"
 		dynasty = "Osmanoglu"
 		birth_date = 1566.5.26
 		death_date = 1603.12.21
@@ -285,11 +285,11 @@ national_focus = MIL
 	}
 }
 
-1594.1.1 = { leader = {	name = "Lala Mahmud"           	type = general	rank = 0	fire = 2	shock = 3	manuever = 2	siege = 0	death_date = 1606.1.1 } }
+1594.1.1 = { leader = {	name = "Jake Thorne"           	type = general	rank = 0	fire = 2	shock = 3	manuever = 2	siege = 0	death_date = 1606.1.1 } }
 
 1595.1.16 = {
 	monarch = {
-		name = "Mehmet III"
+		name = "Jake Thorne"
 		dynasty = Osmanoglu
 		birth_date = 1566.5.26
 		adm = 0
@@ -302,8 +302,8 @@ national_focus = MIL
 
 1595.1.16 = {
 	heir = {
-		name = "Ahmet"
-		monarch_name = "Ahmet I"
+		name = "Jake Thorne"
+		monarch_name = "Jake Thorne"
 		dynasty = "Osmanoglu"
 		birth_date = 1590.4.18
 		death_date = 1617.11.22
@@ -316,7 +316,7 @@ national_focus = MIL
 
 1603.12.22 = {
 	monarch = {
-		name = "Ahmet I"
+		name = "Jake Thorne"
 		dynasty = Osmanoglu
 		birth_date = 1590.4.18
 		adm = 4
@@ -329,8 +329,8 @@ national_focus = MIL
 
 1603.12.22 = {
 	heir = {
-		name = "Mustafa Deli"
-		monarch_name = "Mustafa I Deli"
+		name = "Jake Thorne"
+		monarch_name = "Jake Thorne"
 		dynasty = "Osmanoglu"
 		birth_date = 1591.1.1
 		death_date = 1639.1.20
@@ -343,7 +343,7 @@ national_focus = MIL
 
 1617.11.23 = {
 	monarch = {
-		name = "Mustafa I Deli"
+		name = "Jake Thorne"
 		dynasty = Osmanoglu
 		birth_date = 1591.1.1
 		adm = 0
@@ -356,7 +356,7 @@ national_focus = MIL
 
 1618.2.25 = {
 	monarch = {
-		name = "Osman II"
+		name = "Jake Thorne"
 		dynasty = Osmanoglu
 		birth_date = 1604.11.3
 		adm = 3
@@ -369,8 +369,8 @@ national_focus = MIL
 
 1618.2.25 = {
 	heir = {
-		name = "Mustafa Deli"
-		monarch_name = "Mustafa I Deli"
+		name = "Jake Thorne"
+		monarch_name = "Jake Thorne"
 		dynasty = "Osmanoglu"
 		birth_date = 1591.1.1
 		death_date = 1639.1.20
@@ -381,11 +381,11 @@ national_focus = MIL
 	}
 }
 
-1620.1.1 = { leader = {	name = "Sissaou"               	type = admiral	rank = 0	fire = 2	shock = 2	manuever = 2	siege = 0	death_date = 1640.1.1 } }
+1620.1.1 = { leader = {	name = "Jake Thorne"               	type = admiral	rank = 0	fire = 2	shock = 2	manuever = 2	siege = 0	death_date = 1640.1.1 } }
 
 1622.5.20 = {
 	monarch = {
-		name = "Mustafa I"
+		name = "Jake Thorne"
 		dynasty = Osmanoglu
 		birth_date = 1591.1.1
 		adm = 0
@@ -398,8 +398,8 @@ national_focus = MIL
 
 1622.5.20 = {
 	heir = {
-		name = "Murad"
-		monarch_name = "Murad IV"
+		name = "Jake Thorne"
+		monarch_name = "Jake Thorne"
 		dynasty = "Osmanoglu"
 		birth_date = 1612.7.26
 		death_date = 1640.2.8
@@ -412,13 +412,13 @@ national_focus = MIL
 
 1623.9.11 = {
 	monarch = {
-		name = "Murad IV"
+		name = "Jake Thorne"
 		dynasty = Osmanoglu
 		birth_date = 1612.7.26
 		adm = 4
 		dip = 2
 		mil = 4
-		leader = { name = "Murat IV"              type = general	rank = 0	fire = 3	shock = 3	manuever = 3	siege = 1}
+		leader = { name = "Jake Thorne"              type = general	rank = 0	fire = 3	shock = 3	manuever = 3	siege = 1}
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = bold_fighter_personality
@@ -427,8 +427,8 @@ national_focus = MIL
 
 1623.9.11 = {
 	heir = {
-		name = "Deli Ibrahim"
-		monarch_name = "Ibrahim I"
+		name = "Jake Thorne"
+		monarch_name = "Jake Thorne"
 		dynasty = "Osmanoglu"
 		birth_date = 1615.11.5
 		death_date = 1648.8.18
@@ -441,7 +441,7 @@ national_focus = MIL
 
 1640.2.8 = {
 	monarch = {
-		name = "Ibrahim I"
+		name = "Jake Thorne"
 		dynasty = Osmanoglu
 		birth_date = 1615.11.5
 		adm = 0
@@ -456,8 +456,8 @@ national_focus = MIL
 
 1642.1.2 = {
 	heir = {
-		name = "Mehmet"
-		monarch_name = "Mehmet IV"
+		name = "Jake Thorne"
+		monarch_name = "Jake Thorne"
 		dynasty = "Osmanoglu"
 		claim = 95
 		birth_date = 1642.1.2
@@ -470,7 +470,7 @@ national_focus = MIL
 	
 1648.8.19 = {
 	monarch = {
-		name = "Mehmet IV"
+		name = "Jake Thorne"
 		dynasty = Osmanoglu
 		birth_date = 1642.1.2
 		adm = 1
@@ -484,8 +484,8 @@ national_focus = MIL
 
 1648.8.19 = {
 	heir = {
-		name = "Süleyman"
-		monarch_name = "Süleyman II"
+		name = "Jake Thorne"
+		monarch_name = "Jake Thorne"
 		dynasty = "Osmanoglu"
 		claim = 95
 		birth_date = 1642.4.15
@@ -496,15 +496,15 @@ national_focus = MIL
 	}
 }
 
-1661.1.1 = { leader = {	name = "Köprülü Fazil Ahmed"   	type = general	rank = 0	fire = 3	shock = 4	manuever = 4	siege = 1	death_date = 1676.1.1 } }
+1661.1.1 = { leader = {	name = "Jake Thorne"   	type = general	rank = 0	fire = 3	shock = 4	manuever = 4	siege = 1	death_date = 1676.1.1 } }
 
-1676.1.1 = { leader = {	name = "Kara Mustapha"         	type = general	rank = 1	fire = 3	shock = 4	manuever = 3	siege = 1	death_date = 1683.1.1 } }
+1676.1.1 = { leader = {	name = "Jake Thorne"         	type = general	rank = 1	fire = 3	shock = 4	manuever = 3	siege = 1	death_date = 1683.1.1 } }
 
-1686.1.1 = { leader = {	name = "Mezzamorto Hüseyin"	type = admiral	rank = 1	fire = 4	shock = 4	manuever = 4	siege = 0	death_date = 1701.1.1 } }
+1686.1.1 = { leader = {	name = "Jake Thorne"	type = admiral	rank = 1	fire = 4	shock = 4	manuever = 4	siege = 0	death_date = 1701.1.1 } }
 
 1687.11.8 = {
 	monarch = {
-		name = "Süleyman II"
+		name = "Jake Thorne"
 		dynasty = Osmanoglu
 		birth_date = 1642.4.15
 		adm = 0
@@ -516,8 +516,8 @@ national_focus = MIL
 
 1687.11.8 = {
 	heir = {
-		name = "Ahmet"
-		monarch_name = "Ahmet II"
+		name = "Jake Thorne"
+		monarch_name = "Jake Thorne"
 		dynasty = "Osmanoglu"
 		birth_date = 1643.2.25
 		death_date = 1695.2.6
@@ -530,7 +530,7 @@ national_focus = MIL
 
 1691.6.23 = {
 	monarch = {
-		name = "Ahmet II"
+		name = "Jake Thorne"
 		dynasty = "Osmanoglu"
 		birth_date = 1643.2.25
 		adm = 0
@@ -541,8 +541,8 @@ national_focus = MIL
 
 1691.6.23 = {
 	heir = {
-		name = "Mustafa"
-		monarch_name = "Mustafa II"
+		name = "Jake Thorne"
+		monarch_name = "Jake Thorne"
 		dynasty = "Osmanoglu"
 		birth_date = 1664.2.6
 		death_date = 1703.12.28
@@ -555,7 +555,7 @@ national_focus = MIL
 
 1695.2.6 = {
 	monarch = {
-		name = "Mustafa II"
+		name = "Jake Thorne"
 		dynasty = "Osmanoglu"
 		birth_date = 1664.2.6
 		adm = 0
@@ -566,8 +566,8 @@ national_focus = MIL
 
 1695.2.6 = {
 	heir = {
-		name = "Ahmet"
-		monarch_name = "Ahmet III"
+		name = "Jake Thorne"
+		monarch_name = "Jake Thorne"
 		dynasty = "Osmanoglu"
 		birth_date = 1673.12.30
 		death_date = 1736.7.1
@@ -580,7 +580,7 @@ national_focus = MIL
 
 1703.8.23 = {
 	monarch = {
-		name = "Ahmet III"
+		name = "Jake Thorne"
 		dynasty = "Osmanoglu"
 		birth_date = 1673.12.30
 		adm = 6
@@ -591,8 +591,8 @@ national_focus = MIL
 
 1703.8.23 = {
 	heir = {
-		name = "Mahmud"
-		monarch_name = "Mahmud I"
+		name = "Jake Thorne"
+		monarch_name = "Jake Thorne"
 		dynasty = "Osmanoglu"
 		birth_date = 1696.8.2
 		death_date = 1754.12.13
@@ -603,13 +603,13 @@ national_focus = MIL
 	}
 }
 
-1704.1.1 = { leader = {	name = "Silahdar Ali"          	type = general	rank = 1	fire = 1	shock = 3	manuever = 2	siege = 0	death_date = 1716.1.1 } }
+1704.1.1 = { leader = {	name = "Jake Thorne"          	type = general	rank = 1	fire = 1	shock = 3	manuever = 2	siege = 0	death_date = 1716.1.1 } }
 
-1728.1.1 = { leader = {	name = "Hekimoglu Ali"         	type = general	rank = 2	fire = 2	shock = 3	manuever = 3	siege = 0	death_date = 1758.1.1 } }
+1728.1.1 = { leader = {	name = "Jake Thorne"         	type = general	rank = 2	fire = 2	shock = 3	manuever = 3	siege = 0	death_date = 1758.1.1 } }
 
 1730.10.2 = {
 	monarch = {
-		name = "Mahmud I"
+		name = "Jake Thorne"
 		dynasty = "Osmanoglu"
 		birth_date = 1696.8.2
 		adm = 1
@@ -620,8 +620,8 @@ national_focus = MIL
 
 1730.10.2 = {
 	heir = {
-		name = "Osman"
-		monarch_name = "Osman III"
+		name = "Jake Thorne"
+		monarch_name = "Jake Thorne"
 		dynasty = "Osmanoglu"
 		birth_date = 1699.1.3
 		death_date = 1757.10.30
@@ -634,7 +634,7 @@ national_focus = MIL
 
 1754.12.15 = {
 	monarch = {
-		name = "Osman III"
+		name = "Jake Thorne"
 		dynasty = Osmanoglu
 		birth_date = 1699.1.3
 		adm = 0
@@ -645,8 +645,8 @@ national_focus = MIL
 
 1754.12.15 = {
 	heir = {
-		name = "Mustafa"
-		monarch_name = "Mustafa III"
+		name = "Jake Thorne"
+		monarch_name = "Jake Thorne"
 		birth_date = 1717.1.28
 		death_date = 1774.1.21
 		dynasty = "Osmanoglu"
@@ -659,7 +659,7 @@ national_focus = MIL
 
 1757.10.30 = {
 	monarch = {
-		name = "Mustafa III"
+		name = "Jake Thorne"
 		dynasty = Osmanoglu
 		birth_date = 1717.1.28
 		adm = 2
@@ -670,8 +670,8 @@ national_focus = MIL
 
 1757.10.30 = {
 	heir = {
-		name = "Abdülhamid"
-		monarch_name = "Abdülhamid I"
+		name = "Jake Thorne"
+		monarch_name = "Jake Thorne"
 		dynasty = "Osmanoglu"
 		birth_date = 1725.3.20
 		death_date = 1789.4.7
@@ -682,11 +682,11 @@ national_focus = MIL
 	}
 }
 
-1766.1.1 = { leader = {	name = "Algerian Hassan"       	type = admiral	rank = 0	fire = 2	shock = 1	manuever = 3	siege = 0	death_date = 1790.1.1 } }
+1766.1.1 = { leader = {	name = "Jake Thorne"       	type = admiral	rank = 0	fire = 2	shock = 1	manuever = 3	siege = 0	death_date = 1790.1.1 } }
 
 1774.1.22 = {
 	monarch = {
-		name = "Abdülhamid I"
+		name = "Jake Thorne"
 		dynasty = Osmanoglu
 		birth_date = 1725.3.20
 		adm = 4
@@ -697,8 +697,8 @@ national_focus = MIL
 
 1774.1.22 = {
 	heir = {
-		name = "Selim"
-		monarch_name = "Selim III"
+		name = "Jake Thorne"
+		monarch_name = "Jake Thorne"
 		birth_date = 1761.12.24
 		death_date = 1808.7.28
 		dynasty = "Osmanoglu"
@@ -711,7 +711,7 @@ national_focus = MIL
 
 1789.4.8 = {
 	monarch = {
-		name = "Selim III"
+		name = "Jake Thorne"
 		dynasty = "Osmanoglu"
 		birth_date = 1761.12.24
 		adm = 2
@@ -722,8 +722,8 @@ national_focus = MIL
 
 1789.4.8 = {
 	heir = {
-		name = "Mustafa"
-		monarch_name = "Mustafa IV"
+		name = "Jake Thorne"
+		monarch_name = "Jake Thorne"
 		dynasty = "Osmanoglu"
 		birth_date = 1779.9.8
 		death_date = 1808.11.15
@@ -734,11 +734,11 @@ national_focus = MIL
 	}
 }
 
-1792.1.1 = { leader = {	name = "Cezzar Pasha"         	type = general	rank = 1	fire = 4	shock = 2	manuever = 2	siege = 0	death_date = 1804.1.1 } }
+1792.1.1 = { leader = {	name = "Jake Thorne"         	type = general	rank = 1	fire = 4	shock = 2	manuever = 2	siege = 0	death_date = 1804.1.1 } }
 
 1807.5.30 = {
 	monarch = {
-		name = "Mustafa IV"
+		name = "Jake Thorne"
 		dynasty = Osmanoglu
 		birth_date = 1779.9.8
 		adm = 0
@@ -749,8 +749,8 @@ national_focus = MIL
 
 1807.5.30 = {
 	heir = {
-		name = "Mahmud"
-		monarch_name = "Mahmud II"
+		name = "Jake Thorne"
+		monarch_name = "Jake Thorne"
 		dynasty = "Osmanoglu"
 		birth_date = 1785.7.20
 		death_date = 1839.7.1
@@ -763,7 +763,7 @@ national_focus = MIL
 		
 1808.6.29 = {
 	monarch = {
-		name = "Mahmud II"
+		name = "Jake Thorne"
 		dynasty = Osmanoglu
 		birth_date = 1785.7.20
 		adm = 2
