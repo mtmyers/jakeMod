@@ -1,0 +1,17 @@
+government 				= absolute_monarchy
+mercantilism 			= 0.1
+primary_culture 		= greek
+culture_group_union 	= byzantine
+religion 				= orthodox
+technology_group 		= western
+capital 				= 151 			
+
+1444.1.1 = {
+	monarch = {
+		name = "Caesar"
+		birth_date = 1350.6.27		
+		adm = 6
+		dip = 6
+		mil = 6
+	}
+}
