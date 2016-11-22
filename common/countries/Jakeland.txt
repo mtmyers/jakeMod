@@ -38,7 +38,6 @@ monarch_names = {
 	"Jake" = 9
 	"Jacob" = 9
 	"Jacobo" = 9
-	"Ιακωβος" = 9
 	"Ishmael" = 20
 
 	"Heather" = -20
@@ -46,12 +45,7 @@ monarch_names = {
 }
 
 leader_names = { 
-	"Elmer Fudd #1"
-	"Elmer Fudd #2"
-	"Elmer Fudd #3"
-	"Elmer Fudd #4"
-	"Elmer Fudd #5"
-	"Elmer Fudd #6"
+	"Fudd"
 }
 
 ship_names = {
@@ -65,6 +59,20 @@ ship_names = {
 	"Roger Rabbit"
 	"The White Rabbit"
 	"Easter Bunny"
+	"Velveteen Rabbit"
+	"Frank Anderson"
+	"Bugs Bunny #2"
+	"Buster Bunny #2"
+	"Briar Rabbit #2"
+	"Energizer Bunny #2"
+	"Peter Cottontail #2"
+	"Killer Rabbit of Caerbannog #2"
+	"Peter Rabbit #2"
+	"Roger Rabbit #2"
+	"The White Rabbit #2"
+	"Easter Bunny #2"
+	"Velveteen Rabbit #2"
+	"Frank Anderson #2"
 }
 
 army_names = {
